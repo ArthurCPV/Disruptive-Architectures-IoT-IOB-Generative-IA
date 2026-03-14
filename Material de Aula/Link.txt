@@ -1,0 +1,3 @@
+Oi pessoal, site da nossa disciplina:
+
+https://arnaldojr.github.io/DisruptiveArchitectures/
